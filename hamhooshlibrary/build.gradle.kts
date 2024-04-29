@@ -66,7 +66,7 @@ publishing {
         create<MavenPublication>("maven") {
             groupId = "com.github.SmilinnoHamhoosh"
             artifactId = "hamhoosh"
-            version = "1.0"
+            version = "1.2"
 
             pom {
                 description.set("First Android Library")
