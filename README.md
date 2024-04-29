@@ -13,5 +13,5 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.SmilinnoInnovationHub:assistant-sdk:1.0'
+	        implementation 'com.github.SmilinnoHamhoosh:hamhoosh-sdk:1.0'
 	}
